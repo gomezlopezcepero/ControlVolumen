@@ -1,0 +1,13 @@
+C:\Users\Paco\source\repos\formularioControl\formularioControl\bin\Debug\formularioControl.exe.config
+C:\Users\Paco\source\repos\formularioControl\formularioControl\bin\Debug\formularioControl.exe
+C:\Users\Paco\source\repos\formularioControl\formularioControl\bin\Debug\formularioControl.pdb
+C:\Users\Paco\source\repos\formularioControl\formularioControl\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Paco\source\repos\formularioControl\formularioControl\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.csprojAssemblyReference.cache
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.Form1.resources
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.Properties.Resources.resources
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.csproj.GenerateResource.cache
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.csproj.CoreCompileInputs.cache
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.csproj.CopyComplete
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.exe
+C:\Users\Paco\source\repos\formularioControl\formularioControl\obj\Debug\formularioControl.pdb

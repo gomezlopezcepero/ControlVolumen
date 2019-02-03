@@ -1,0 +1,10 @@
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\bin\Debug\altavoz.png
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\obj\Debug\ControlVolumen.csprojAssemblyReference.cache
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Properties.Resources.resources
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Volumen.resources
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\obj\Debug\ControlVolumen.csproj.GenerateResource.cache
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\obj\Debug\ControlVolumen.csproj.CoreCompileInputs.cache
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Paco\source\repos\ControlVolumen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
